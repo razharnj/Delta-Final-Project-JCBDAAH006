@@ -12,8 +12,11 @@ yang meliputi 3 faktor utama: Demografi nasabah, riwayat telemarketing, dan fakt
 
 # Dataset
 41188 baris dengan 20 kolom
+
 tidak ada data tahun, hanya hari dan bulan
+
 tidak ada unique ID/ primary key
+
 hasil data menjadi sangat tidak seimbang
 
 # Data dictionary
